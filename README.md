@@ -25,7 +25,7 @@ Once the user is logged, the program displays a welcome message and you can clic
 
 ## Live example
 
-Github:     --fixed styles and data
+Github: https://github.com/tercodiablo/naiat-app211    --tooltips and fixed some bugs
 
 CodeSandBox: https://codesandbox.io/s/react-naiat-login-csbtd-nsp8n5  --first version
 
